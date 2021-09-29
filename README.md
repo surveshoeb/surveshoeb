@@ -5,4 +5,6 @@
 <a href="mailto:surveshoeb@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=surveshoeb&show_icons=true&count_private=true" width="500" height="auto"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveshoeb&layout=compact/" width="208" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveshoeb&count_private=true/" width="208" height="auto"/>
+[![shoeb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=surveshoeb)](https://github.com/surveshoeb/surveshoeb)
+
