@@ -7,7 +7,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-B53429?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surveshoeb@gmail.com)
 
 #### ✨ Github Stats
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=surveshoeb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveshoeb&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=surveshoeb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surveshoeb&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript,html,java"/>
 
 #### ☄️ Github Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=surveshoeb&theme=ayu-light)](https://git.io/streak-stats)
